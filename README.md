@@ -1,6 +1,6 @@
 ## Hi, I'm Darshan K S
 
-🎓 MCA Student | 💻 Aspiring Data Analyst| Devops  
+🎓 MCA Student | 💻 Aspiring Data Analyst | Devops  
 📍 India
 
 ### 🚀 Featured Projects
