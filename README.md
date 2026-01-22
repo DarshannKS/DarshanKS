@@ -8,6 +8,7 @@ Hi, I’m Darshan KS 👋
 MCA graduate with hands-on experience in designing and developing data-driven applications using ASP.NET (C#) and SQL Server. Skilled in predictive analysis, database optimization, and layered architecture, with a strong focus on building scalable, maintainable systems that align academic outcomes with industry requirements.
 
 🚀 Academic & Technical Projects
+
 🔹 Predictive Skill Gap Analysis & Recommendation System
 
 Developed a data-driven predictive system to analyze student skill gaps using academic performance data
@@ -15,6 +16,7 @@ Developed a data-driven predictive system to analyze student skill gaps using ac
 Implemented personalized training and career recommendations
 
 Built using ASP.NET (C#) and SQL Server with a layered architecture
+https://github.com/DarshannKS/Predictive-Framework-for-Analysing-Skill-Gaps
 
 🔹 Student Performance Analysis System
 
