@@ -43,7 +43,7 @@ Software Development • Data Analysis • Entry-Level Cybersecurity (GRC / SOC)
 
 🔗 Connect
 
-LinkedIn: (add your LinkedIn URL)
+LinkedIn: www.linkedin.com/in/darshan-ks--
 
 GitHub: https://github.com/DarshannKS/DarshanKS
 
