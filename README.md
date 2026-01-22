@@ -45,7 +45,6 @@ Software Development • Data Analysis • Entry-Level Cybersecurity (GRC / SOC)
 
 LinkedIn: (add your LinkedIn URL)
 
-GitHub: https://github.com/
-<your-username>
+GitHub: https://github.com/DarshannKS/DarshanKS
 
 ⭐ Actively seeking entry-level opportunities where I can apply my technical skills and grow as a software professional.
